@@ -16,3 +16,8 @@ c:\users\kyles\documents\visual studio 2015\Projects\GasMileageTracker\GasMileag
 c:\users\kyles\documents\visual studio 2015\Projects\GasMileageTracker\GasMileageTracker\obj\Debug\Interop.ADOX.dll
 c:\users\kyles\documents\visual studio 2015\Projects\GasMileageTracker\GasMileageTracker\obj\Debug\GasMileageTracker.csproj.ResolveComReference.cache
 c:\users\kyles\documents\visual studio 2015\Projects\GasMileageTracker\GasMileageTracker\obj\Debug\GasMileageTracker.AddVehicleErrorForm.resources
+C:\Users\kyles\Source\Repos\Kyles5\Gas-Mileage-Tracker\GasMileageTracker\GasMileageTracker\bin\Debug\GasMileageTracker.exe.config
+C:\Users\kyles\Source\Repos\Kyles5\Gas-Mileage-Tracker\GasMileageTracker\GasMileageTracker\obj\Debug\Interop.ADOX.dll
+C:\Users\kyles\Source\Repos\Kyles5\Gas-Mileage-Tracker\GasMileageTracker\GasMileageTracker\obj\Debug\GasMileageTracker.csproj.ResolveComReference.cache
+C:\Users\kyles\Source\Repos\Kyles5\Gas-Mileage-Tracker\GasMileageTracker\GasMileageTracker\obj\Debug\GasMileageTracker.exe
+C:\Users\kyles\Source\Repos\Kyles5\Gas-Mileage-Tracker\GasMileageTracker\GasMileageTracker\obj\Debug\GasMileageTracker.pdb
