@@ -12,8 +12,7 @@ using System.Windows.Forms;
 
 namespace GasMileageTracker
 {
-    // This is a github test
-
+    // This is a GitHub Test!
     public partial class Form1 : Form
     {
         String server = "localhost";
@@ -111,7 +110,6 @@ namespace GasMileageTracker
             else
             {
                 // Show empty error box
-                this.Close();
             }
         }
 
