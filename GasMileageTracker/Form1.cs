@@ -111,6 +111,7 @@ namespace GasMileageTracker
             else
             {
                 // Show empty error box
+                this.Close();
             }
         }
 
